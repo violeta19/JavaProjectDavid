@@ -9,7 +9,6 @@ public class Main {
         char myChar='a';
         byte myByte=123;
         short myShort=12345;
-
         float myFloat=12345;
         String myString="avsfsgetdbdbu123456";
 
